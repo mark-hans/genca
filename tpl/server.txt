@@ -1,0 +1,6 @@
+cn = "_ip_"
+organization = "GlobalSign nv-sa"
+expiration_days = 3650
+signing_key
+encryption_key
+tls_www_server
