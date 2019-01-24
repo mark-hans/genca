@@ -6,20 +6,20 @@ https://github.com/mark-hans/genca
 执行./genca.sh即可，全平台支持
 
 
-#ubuntu
+# ubuntu上需要运行：
 apt-get install gnutls-bin gnutls-doc
 
-#在CentOS VPS上需要运行：
+# 在CentOS VPS上需要运行：
 yum install -y gnutls-utils
 
 
-#windows 平台使用方法：
+# windows 平台使用方法：
 https://git-scm.com/download/win
 
-#trojan下载地址：
+# trojan下载地址：
 https://github.com/trojan-gfw/trojan/releases
 
-#将trojan以服务启动：
+# 将trojan以服务启动：
 
 winsw下载
 https://github.com/kohsuke/winsw/releases
