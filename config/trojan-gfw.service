@@ -1,0 +1,9 @@
+[Unit]
+After=network.target 
+
+[Service]
+ExecStart=/opt/trojan/trojan -c /opt/trojan/config.json
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
